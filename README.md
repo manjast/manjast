@@ -1,6 +1,6 @@
 # Stefan Manja
 
-I build internal AI systems for enterprise workflows. The kind that holds up after the demo ends. 
+I build internal AI systems for enterprise workflows. The kind that hold up after the demo ends. 
 
 Most of my work is private or internal. Selected artifacts are shared here.
 
