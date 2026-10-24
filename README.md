@@ -6,3 +6,4 @@ Most of my work is private or internal. Selected artifacts are shared here.
 
 - [stefanmanja.com](https://stefanmanja.com)
 - [agentic-development-playbook](https://github.com/manjast/agentic-development-playbook)
+- [model-swap-check](https://github.com/manjast/model-swap-check)
